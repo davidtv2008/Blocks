@@ -21,7 +21,7 @@ public:
     void setNextPieceLabel(QLabel *label);
     void setHoldPieceLabel(QLabel *label);
     QSize sizeHint() const Q_DECL_OVERRIDE;
-    QSize minimunSizeHint() const Q_DECL_OVERRIDE;
+    //QSize minimunSizeHint() const Q_DECL_OVERRIDE;
 
     //keep track of score
     int numLinesRemoved;

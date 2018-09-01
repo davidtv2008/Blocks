@@ -67,13 +67,13 @@ QSize BlocksBoard::sizeHint() const
  * Provice minimum size hints based on play area
  * @return propritional minimum size hint
 *******************************************************************************/
-QSize BlocksBoard::minimunSizeHint() const
+/*QSize BlocksBoard::minimunSizeHint() const
 {
     return QSize (BoardWidth * 5 + frameWidth() * 2,
                   BoardHeight * 5 + frameWidth() *2);
 
 }
-
+*/
 
 /*******************************************************************************
  * Reset gameState, clear board and start game

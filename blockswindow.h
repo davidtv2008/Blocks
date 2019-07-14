@@ -16,7 +16,7 @@
 #include <QWidget>
 #include <QFileDialog>
 #include <QDebug>
-#include <QSql>
+//#include <QSql>
 #include <QSqlQuery>
 #include <QSqlDatabase>
 #include <QThread>
